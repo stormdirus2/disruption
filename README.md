@@ -122,7 +122,7 @@ Hanging blocks fulfill any or all of the conditions below:
 <br>
 <br>
 
-## 'Protected' blocks
+### 'Protected' blocks
 
 Protected blocks are blocks whose calculated reach is always at least 3 blocks.
 
