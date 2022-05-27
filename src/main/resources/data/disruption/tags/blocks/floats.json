@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:slime_block",
+    "minecraft:honey_block",
+    "minecraft:scaffolding",
+    "minecraft:piston",
+    "minecraft:sticky_piston",
+    "minecraft:redstone_block",
+    "minecraft:observer"
+  ]
+}

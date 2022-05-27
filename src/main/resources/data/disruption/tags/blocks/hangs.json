@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:end_stone",
+    "minecraft:netherrack",
+    "minecraft:basalt",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:chain",
+    "minecraft:iron_bars",
+    "#minecraft:fences",
+    "#minecraft:walls"
+  ]
+}
+

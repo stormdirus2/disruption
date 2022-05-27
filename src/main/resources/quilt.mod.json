@@ -1,0 +1,39 @@
+{
+	"schema_version": 1,
+	"quilt_loader": {
+		"group": "net.scirave",
+		"id": "disruption",
+		"version": "${version}",
+		"metadata": {
+			"name": "Disruption",
+			"description": "A mod about about cave-ins and falling blocks.",
+			"contributors": {
+				"SciRave": "Owner"
+			},
+			"contact": {
+				"issues": "https://github.com/scirave2/disruption/issues",
+				"sources": "https://github.com/scirave2/disruption"
+			},
+			"icon": "assets/disruption/icon.png"
+		},
+		"intermediate_mappings": "net.fabricmc:intermediary",
+		"entrypoints": {
+			"init": "net.scirave.disruption.Disruption"
+		},
+		"depends": [
+			{
+				"id": "quilt_loader",
+				"versions": ">=0.16.0-"
+			},
+			{
+				"id": "quilted_fabric_api",
+				"versions": ">=1.0.0-"
+			},
+			{
+				"id": "minecraft",
+				"versions": ">=1.18.2"
+			}
+		]
+	},
+	"mixin": "disruption.mixins.json"
+}

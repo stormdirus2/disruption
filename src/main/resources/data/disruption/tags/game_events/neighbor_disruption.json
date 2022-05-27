@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+    "disruption:block_exploded",
+    "disruption:fire_spread"
+  ]
+}
